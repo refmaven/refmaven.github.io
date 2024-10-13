@@ -7,8 +7,8 @@
                            min-height: 12vh;">  
   <div style="text-align: center;">   
     <h2>&nbsp;&nbsp;
-      <span style="text-decoration: underline;">home</span> //
-      <a href="">more stuff later</a> //
+      <span style="text-decoration: underline;">home</span> /
+      <a href="">more stuff later</a> /
       <a href="#follow">follow me</a>
     </h2>    
     <table style="width: 100%; 
@@ -60,7 +60,7 @@
       </tbody>      
     </table>      
     <h2 id="follow">&nbsp;&nbsp;
-      <a href="https://github.com/refmaven">github</a> //  
+      <a href="https://github.com/refmaven">github</a> /
       <a href="https://instagram.com/refmaven">insta</a>
     </h2>    
   </div>  
