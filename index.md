@@ -17,7 +17,7 @@
           <td align="left" style="padding: 7px;">
             <hr>
             i'm <strong>refmaven</strong>, a<br>wannabe artist and<br>programmer.
-            <br><br><br><br><br><br><br><br>
+            <br><br><br><br>
             <hr>
             <br>
           </td>
@@ -26,14 +26,13 @@
             this is my<br>website.
             <br><br>
             it's still a work <br> in progress,<br>though.
-            <br><br><br><br><br>
+            <br>
             <hr>
             <br>
           </td>
           <td align="left" style="padding: 7px;">
             <hr><ol>
             <li>to push the<br>boundaries of<br>markdown.</li><br>
-            <li>to practice my<br>programming<br>skills.</li><br>
             <li>to turn this into <br>a portfolio later.</li>
             </ol><hr>
             <br>
