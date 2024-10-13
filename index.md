@@ -1,4 +1,6 @@
-<div align="center" style="display: flex; justify-content: center; align-items: center; min-height: 12vh;">
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;700&display=swap" rel="stylesheet">
+
+<div align="center" style="font-family: 'Inter', sans-serif; display: flex; justify-content: center; align-items: center; min-height: 12vh;">
   <div style="text-align: center;">
     <h2>&nbsp;&nbsp;<span style="text-decoration: underline;">home</span> //
       <a href="">more stuff later</a> //
