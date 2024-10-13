@@ -4,7 +4,8 @@
     <a>????</a> //
     <a href="#follow">follow me</a>
   </h2>
-  <table>
+
+  <table style="width: 80%; margin: auto; padding: 10px;">
     <thead>
       <tr>
         <th><em>who</em></th>
@@ -43,6 +44,7 @@
       </tr>
     </tbody>
   </table>  
+
   <h2 id="follow">
    <a href="https://github.com/refmaven">github</a> //  
    <a href="https://instagram.com/refmaven">insta</a>
