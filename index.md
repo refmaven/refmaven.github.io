@@ -1,30 +1,6 @@
-<head>
-<style>
-@-webkit-keyframes AnimationName {
-    0%{background-position:90% 0%}
-    50%{background-position:11% 100%}
-    100%{background-position:90% 0%}
-}
-@-moz-keyframes AnimationName {
-    0%{background-position:90% 0%}
-    50%{background-position:11% 100%}
-    100%{background-position:90% 0%}
-}
-@-o-keyframes AnimationName {
-    0%{background-position:90% 0%}
-    50%{background-position:11% 100%}
-    100%{background-position:90% 0%}
-}
-@keyframes AnimationName {
-    0%{background-position:90% 0%}
-    50%{background-position:11% 100%}
-    100%{background-position:90% 0%}
-}
-</style>
-</head>
 <div align="center" style="display: flex; justify-content: center; align-items: center; min-height: 12vh;">
   <div style="text-align: center;">
-    <h2><span style="text-decoration: underline;">home</span> //
+    <h2>&nbsp;&nbsp;<span style="text-decoration: underline;">home</span> //
       <a href="">more stuff later</a> //
       <a href="#follow">follow me</a>
     </h2>
@@ -65,7 +41,7 @@
         </tr>
       </tbody>
     </table>  
-    <h2 id="follow">
+    <h2 id="follow">&nbsp;&nbsp;
      <a href="https://github.com/refmaven">github</a> //  
      <a href="https://instagram.com/refmaven">insta</a>
     </h2>
