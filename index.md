@@ -1,11 +1,11 @@
-<div align="center" style="display: flex; justify-content: center; align-items: center; min-height: 100vh;">
+<div align="center" style="display: flex; justify-content: center; align-items: center; min-height: 50vh;">
   <div style="text-align: center;">
     <h2>
       <span style="text-decoration: underline;">home</span> //
       <a>????</a> //
       <a href="#follow">follow me</a>
     </h2>
-    <table style="width: 80%; margin: auto; padding: 10px; border-collapse: collapse; text-align: center;">
+    <table style="width: 90%; margin: auto; padding: 5px; border-collapse: collapse; text-align: center;">
       <thead>
         <tr>
           <th style="padding: 10px;"><em>who</em></th>
@@ -15,14 +15,14 @@
       </thead>
       <tbody>
         <tr>
-          <td style="padding: 10px;">
+          <td align="left" style="padding: 10px;">
             <hr>
             i'm <strong>refmaven</strong>, a<br>wannabe artist and<br>programmer.
             <br><br><br><br><br><br><br><br>
             <hr>
             <br>
           </td>
-          <td style="padding: 10px;">
+          <td align="left" style="padding: 10px;">
             <hr>
             this is my<br>website.
             <br><br>
@@ -31,7 +31,7 @@
             <hr>
             <br>
           </td>
-          <td style="padding: 10px;">
+          <td align="left" style="padding: 10px;">
             <hr>
             1. to push the<br>boundaries of<br>markdown.
             <br><br>
