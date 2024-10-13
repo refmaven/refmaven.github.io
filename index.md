@@ -1,4 +1,9 @@
 <div align="center">
+  <h2>
+    home //
+    <a>????</a> //
+    <a href="#follow">follow me</a>
+  </h2>
   <table>
     <thead>
       <tr>
@@ -37,11 +42,9 @@
         </td>
       </tr>
     </tbody>
-  </table>
-  
-  <h2>
-   follow me on: <br>
-    <a href="https://github.com/refmaven">github</a> // 
-    <a href="https://instagram.com/refmaven">insta</a>
+  </table>  
+  <h2 id="follow">
+   <a href="https://github.com/refmaven">github</a> //  
+   <a href="https://instagram.com/refmaven">insta</a>
   </h2>
 </div>
