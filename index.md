@@ -51,7 +51,7 @@
             <hr>
             <ol>
               <li>to push the<br>boundaries of<br>markdown.</li><br>
-              <li>to turn this into <br>a portfolio later.</li>
+              <li>to show off<br>my work.</li>
             </ol>
             <hr>
             <br>
