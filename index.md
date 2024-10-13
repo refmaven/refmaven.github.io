@@ -1,6 +1,6 @@
 <div align="center">
   <h2>
-    home //
+    <span style="text-decoration: underline;">home</span> //
     <a>????</a> //
     <a href="#follow">follow me</a>
   </h2>
