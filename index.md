@@ -16,27 +16,27 @@
       <tr>
         <td>
           <hr>
-          i'm <strong>refmaven</strong>, a wannabe artist and programmer.
+          i'm <strong>refmaven</strong>, a<br>wannabe artist and<br>programmer.
           <br><br><br><br><br><br><br><br>
           <hr>
           <br>
         </td>
         <td>
           <hr>
-          this is my website.
+          this is my<br>website.
           <br><br>
-          it's still a work in progress, though.
+          it's still a work <br> in progress,<br>though.
           <br><br><br><br><br>
           <hr>
           <br>
         </td>
         <td>
           <hr>
-          1. to push the boundaries of markdown.
+          1. to push the<br>boundaries of<br>markdown.
           <br><br>
-          2. to practice my programming skills.
+          2. to practice my<br>programming<br>skills.
           <br><br>
-          3. to turn this into a portfolio later.
+          3. to turn this into a<br>portfolio later.
           <hr>
           <br>
         </td>
