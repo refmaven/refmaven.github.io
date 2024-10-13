@@ -1,6 +1,6 @@
 <div align="center" style="display: flex; justify-content: center; align-items: center; min-height: 12vh;">
   <div style="text-align: center;">
-    <h2>&nbsp;&nbsp;<span style="text-decoration: underline;">home</span> //
+    <h2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="text-decoration: underline;">home</span> //
       <a href="">more stuff later</a> //
       <a href="#follow">follow me</a>
     </h2>
@@ -41,7 +41,7 @@
         </tr>
       </tbody>
     </table>  
-    <h2 id="follow">&nbsp;&nbsp;
+    <h2 id="follow">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
      <a href="https://github.com/refmaven">github</a> //  
      <a href="https://instagram.com/refmaven">insta</a>
     </h2>
