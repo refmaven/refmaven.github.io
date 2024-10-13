@@ -1,16 +1,15 @@
 <div align="center" style="display: flex; justify-content: center; align-items: center; min-height: 12vh;">
   <div style="text-align: center;">
-    <h2>
-      <span style="text-decoration: underline;">home</span> //
+    <h2><span style="text-decoration: underline;">home</span> //
       <a href="">more stuff later</a> //
       <a href="#follow">follow me</a>
     </h2>
     <table style="width: 100%; margin: auto; padding: 5px; border-collapse: collapse; text-align: center;">
       <thead>
         <tr>
-          <th style="padding: 7px;"><em>who</em></th>
-          <th style="padding: 7px;"><em>what</em></th>
-          <th style="padding: 7px;"><em>why</em></th>
+          <th align="left" style="padding: 7px;"><em>who</em></th>
+          <th align="left" style="padding: 7px;"><em>what</em></th>
+          <th align="left" style="padding: 7px;"><em>why</em></th>
         </tr>
       </thead>
       <tbody>
@@ -35,7 +34,7 @@
             <hr><ol>
             <li>to push the<br>boundaries of<br>markdown.</li><br>
             <li>to practice my<br>programming<br>skills.</li><br>
-            <li>to turn this into a<br>portfolio later.</li>
+            <li>to turn this into <br>a portfolio later.</li>
             </ol><hr>
             <br>
           </td>
