@@ -1,4 +1,4 @@
-<div align="center" style="display: flex; justify-content: center; align-items: center; min-height: 12vh;">
+<div align="center" style="font-family: monospace; display: flex; justify-content: center; align-items: center; min-height: 12vh;">
   <div style="text-align: center;">
     <h2>&nbsp;&nbsp;<span style="text-decoration: underline;">home</span> //
       <a href="">more stuff later</a> //
