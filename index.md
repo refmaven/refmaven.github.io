@@ -9,9 +9,9 @@
     <table style="width: 100%; margin: auto; padding: 5px; border-collapse: collapse; text-align: center;">
       <thead>
         <tr>
-          <th align="left" style="padding: 7px;"><h3><em>who</em></h3></th>
-          <th align="left" style="padding: 7px;"><h3><em>what</em></h3></th>
-          <th align="left" style="padding: 7px;"><h3><em>why</em></h3></th>
+          <th align="left" style="padding: 7px;"><h3>who</h3></th>
+          <th align="left" style="padding: 7px;"><h3>what</h3></th>
+          <th align="left" style="padding: 7px;"><h3>why</h3></th>
         </tr>
       </thead>
       <tbody>
