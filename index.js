@@ -1,1 +1,1 @@
-document.writeln('wip')
+document.writeln('hello.')
