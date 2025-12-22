@@ -25,6 +25,8 @@ ul {
 
 li {
     display: inline;
+    margin: 0;
+    padding: 0;
 }
 
 body {
@@ -36,7 +38,9 @@ body {
     justify-content: center;
     align-items: center;
     min-height: 100vh;
-    font-size: x-large;
+    font-size: xx-large;
+    margin: 0;
+    padding: 0;
 }
 
 a:link, a:visited {
