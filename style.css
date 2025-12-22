@@ -48,6 +48,8 @@ body {
 
 hr {
   background: white;
+  background-color: white;
+  color: white;
   border: none;
   height: 5px;
 }
