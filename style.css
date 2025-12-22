@@ -7,6 +7,11 @@
   :root { font-family: InterVariable, sans-serif; }
 }
 
+div {
+    margin: 0;
+    padding: 0;
+}
+
 body {
     background: linear-gradient(282deg,#000967,#151d7e,#333b99);
     background-size: 180% 180%;
